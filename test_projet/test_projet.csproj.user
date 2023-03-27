@@ -11,5 +11,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>test_projet.Data.test_projetContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\ed\Source\Repos\Proje_C-\.github\workflows\ProjetC.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

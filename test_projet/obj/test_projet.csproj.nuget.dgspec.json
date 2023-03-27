@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\test_projet\\test_projet\\test_projet.csproj": {}
+    "C:\\Users\\ed\\Source\\Repos\\Proje_C-\\test_projet\\test_projet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\test_projet\\test_projet\\test_projet.csproj": {
+    "C:\\Users\\ed\\Source\\Repos\\Proje_C-\\test_projet\\test_projet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\test_projet\\test_projet\\test_projet.csproj",
+        "projectUniqueName": "C:\\Users\\ed\\Source\\Repos\\Proje_C-\\test_projet\\test_projet.csproj",
         "projectName": "test_projet",
-        "projectPath": "C:\\Users\\user\\source\\repos\\test_projet\\test_projet\\test_projet.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\test_projet\\test_projet\\obj\\",
+        "projectPath": "C:\\Users\\ed\\Source\\Repos\\Proje_C-\\test_projet\\test_projet.csproj",
+        "packagesPath": "C:\\Users\\ed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ed\\Source\\Repos\\Proje_C-\\test_projet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
